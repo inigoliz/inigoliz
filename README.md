@@ -9,8 +9,7 @@ I love FOSS and the Maker Culture.
 
 📝 Check out my [Projects Portfolio](https://ignigoliz.github.io/portfolio/)
 
----
-⚙️ Experience
+## ⚙️ Experience
 - Computer Vision
 - ML deployment on local hardware accelerators (ONNX, coreML)
 - ML pipeline design and orchestration (AWS, Airflow, EC2)
