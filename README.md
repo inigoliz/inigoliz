@@ -17,3 +17,5 @@ I love FOSS and the Maker Culture.
 - PCB design
 
 I'm always open for exciting projects - [reach out!](mailto:ignigoliz@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ignigoliz-github-landing&color=orange&style=pixel&label=VISITOR+COUNT)
