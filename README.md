@@ -7,7 +7,7 @@ Besides programming, I also do electronics and all sorts of DIY projects.
 
 I love FOSS and the Maker Culture.
 
-📁 [My Portfolio](https://ignigoliz.github.io/portfolio/)
+📒 Check out my [Projects Portfolio](https://ignigoliz.github.io/portfolio/)
 
 ---
 ⚙️ Experience
