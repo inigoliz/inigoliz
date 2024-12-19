@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hola!
 
-<!--
-**ignigoliz/ignigoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Iñigo. I'm a sort of superposition between Software Engineer and Quantum Physicist.
 
-Here are some ideas to get you started:
+I love computing in all its forms, from low-level assembly to cluster computing.
+Besides programming, I also do electronics and all sorts of DIY projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love FOSS and the Maker Culture.
+
+📁 [My Portfolio](https://ignigoliz.github.io/portfolio/)
+
+---
+⚙️ Experience
+- Computer Vision
+- ML deployment on local hardware accelerators (ONNX, coreML)
+- ML pipeline design and orchestration (AWS, Airflow, EC2)
+- PCB design
+
+I'm always open for exciting projects - [reach out!](mailto:ignigoliz@gmail.com)
