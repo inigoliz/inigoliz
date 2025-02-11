@@ -1,4 +1,4 @@
-## 👋 Hola!
+## ¡Hola! 👋
 
 I'm Iñigo. I'm a sort of superposition between Software Engineer and Quantum Physicist.
 
