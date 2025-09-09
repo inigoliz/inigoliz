@@ -14,7 +14,9 @@ I love FOSS and the Maker Culture.
 - Computer Vision
 - ML deployment on local hardware accelerators (ONNX, coreML)
 - ML pipeline design and orchestration (AWS, Airflow, EC2)
-- PCB design
+- Hardware-aware software design
+- Reverse-engineering
+- PCB design and hardware prototyping
 
 I'm always open for exciting projects - [reach out!](mailto:ignigoliz@gmail.com)
 
