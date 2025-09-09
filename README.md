@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-I'm Iñigo. I'm a superposition between Software Engineer and Quantum Physicist.
+I'm Iñigo. I'm a superposition between Software Engineer and Physicist.
 
 I love computing in all its forms, from low-level assembly to cluster computing.
 Besides programming, I also do electronics and all sorts of DIY projects.
