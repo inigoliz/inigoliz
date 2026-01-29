@@ -1,16 +1,16 @@
 ## ¡Hola! 👋
 
-I'm Iñigo. I'm a superposition between Software Engineer and Physicist.
+I'm Iñigo. I'm a superposition between Physicist and Software Engineer.
 
-I love computing in all its forms, from low-level assembly to cluster computing.
+I love computing in all its forms, from low-level assembly to cluster computing, passing by quantum computing and non-conventional computing paradigms.
 Besides programming, I also do electronics and all sorts of DIY projects.
 
 I love FOSS and the Maker Culture.
 
-📝 Check out my [Projects Portfolio](https://inigoliz.dev) to see some of my creations.
+📝 Check out my [Projects Portfolio](https://inigoliz.com) to see some of my creations.
 
 ---
-### ⚙️ Experience
+### ⚙️ Work Experience
 - Computer Vision
 - ML deployment on local hardware accelerators (ONNX, coreML)
 - ML pipeline design and orchestration (AWS, Airflow, EC2)
